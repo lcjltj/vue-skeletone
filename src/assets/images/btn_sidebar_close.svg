@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="27px" viewBox="0 0 26 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>btn_fold</title>
+    <g id="Common" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Layout" transform="translate(-366.000000, -1861.000000)">
+            <g id="LNB" transform="translate(349.000000, 1839.000000)">
+                <g id="btn_fold" transform="translate(17.000000, 22.000000)">
+                    <rect id="Rectangle" fill="#F5F5F5" x="0" y="0" width="26" height="27" rx="4"></rect>
+                    <line x1="9" y1="13.5" x2="17.8639406" y2="13.5" id="Path-2" stroke="#333333" stroke-linecap="round" stroke-linejoin="round"></line>
+                    <polyline id="Path-3" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" transform="translate(16.723440, 13.489214) scale(-1, 1) translate(-16.723440, -13.489214) " points="18.2234396 10.3738291 15.2234396 13.4892137 18.2234396 16.6045983"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

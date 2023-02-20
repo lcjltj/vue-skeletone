@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon / LNB / icon_01</title>
+    <g id="Common" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Layout" transform="translate(-1319.000000, -2113.000000)">
+            <g id="LNB" transform="translate(1299.000000, 1839.000000)">
+                <g id="dropdown-menu" transform="translate(0.000000, 208.000000)">
+                    <g id="LNB-/-default-Copy-2" transform="translate(0.000000, 50.999673)">
+                        <g id="icon-/-LNB-/-icon_01" transform="translate(20.000000, 14.999833)">
+                            <rect id="Rectangle" x="0" y="0" width="22" height="22"></rect>
+                            <g id="Group-25" transform="translate(5.000000, 5.000000)" stroke="#333333" stroke-width="1.2">
+                                <circle id="Oval" cx="6" cy="6" r="6"></circle>
+                                <polyline id="Path-13" stroke-linecap="round" stroke-linejoin="round" points="3.27272727 6.08583281 4.86607382 7.63636364 8.72727273 4.36363636"></polyline>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

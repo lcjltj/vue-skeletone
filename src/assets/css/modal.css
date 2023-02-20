@@ -1,0 +1,84 @@
+@charset "utf-8";
+.type01{width: 352px;}
+.type02{width: 692px;}
+.type03{width: 872px;}
+.type04{width: 1152px;}
+.type05{width: 1182px;}
+
+.dimmedOverlay{position: fixed; top: 0; left: 0; width: 100%; height: 100%; display: flex; justify-content: center; align-items: center; background-color: rgba(0, 0, 0, 0.8); z-index: 150;}
+
+/* popAll - popAllCommon */
+
+.dimmedOverlay .wrapArea .modalInner .modalCnt .modalScroll{height: 450px; max-height: 450px; margin-top: 10px; padding-right: 12px; overflow-y: auto;}
+
+.dimmedOverlay .wrapArea{background-color: #fff; border-radius: 18px;}
+.dimmedOverlay .wrapArea .modalInner{padding: 24px;}
+.dimmedOverlay .wrapArea .modalInner .modalCnt{position: relative; margin: 0 auto;}
+.dimmedOverlay .wrapArea .modalInner .modalCnt .btnPopClose{position: absolute; top: -48px; right: -24px; display: inline-block; width: 16px; height: 16px; background: url("/assets/images/icon-popClose_white.svg") no-repeat center center; cursor: pointer;}
+.dimmedOverlay .wrapArea .modalInner .modalCnt .modalTit{font-size: 24px; font-weight: 600;}
+.dimmedOverlay .wrapArea .modalInner .modalCnt .modalCaption{font-size: 15px; font-weight: 600;}
+
+.dimmedOverlay .wrapArea .modalInner .modalCnt .modalColumn{display: flex; align-items: center;}
+.dimmedOverlay .wrapArea .modalInner .modalCnt .modalColumn.v2{flex-wrap: wrap; align-items: flex-start;}
+.dimmedOverlay .wrapArea .modalInner .modalCnt .modalColumn + .modalColumn{margin-top: 20px;}
+.dimmedOverlay .wrapArea .modalInner .modalCnt .modalColumn h3{width: 135px;}
+.dimmedOverlay .wrapArea .modalInner .modalCnt .modalColumn.v2 h3{padding-top: 10px;}
+.dimmedOverlay .wrapArea .modalInner .modalCnt .modalColumn .rightCon{width: calc(100% - 135px);}
+
+.dimmedOverlay .wrapArea .modalInner .modalTabCnt{}
+.dimmedOverlay .wrapArea .modalInner .modalTabArea{}
+.dimmedOverlay .wrapArea .modalInner .modalTabArea .tabBox{display: flex; border-bottom: 1px solid #ccc;}
+.dimmedOverlay .wrapArea .modalInner .modalTabArea .tabLinks{display: flex; justify-content: center; align-items: center; width: 240px; height: 48px; text-align: center; cursor: pointer;}
+
+
+
+.dimmedOverlay .wrapArea .modalInner .modalTabArea .tabLinks.active{background-color: #2a6097; color:  #fff; font-weight: bold;}
+
+
+/* batchRegi */
+/* tab02 */
+#tab02 .inpFileWrap label{line-height: 38px;}
+/* tab03 */
+#tab03 .chkWrap{flex-wrap: wrap; gap: 12px;}
+#tab03 .chkWrap label{}
+
+/* tab05 */
+#tab05{}
+#tab05 .tabArea{}
+#tab05 .tabArea .tabItem{position: relative; display: flex; align-items: center; flex-wrap: wrap; background-color: #fdfdfd; min-height: 60px; border-radius: 10px; box-shadow: 2px 2px 6px 0 rgb(0 0 0 / 20%);}
+#tab05 .tabArea .tabItem + .tabItem{margin-top: 16px;}
+#tab05 .tabArea .tabItem .tabHeader{position: relative; min-height: 60px;}
+#tab05 .tabArea .tabItem .tabHeader .drop{position: absolute; top: 50%; right: 10px; transform: translate(0, -50%); transition: 0.3s ease; width: 21px; height: 20px; background: url("/image/ico_drop_arrow.svg") center center no-repeat;}
+#tab05 .tabArea .tabItem .tabHeader .drop.anime{transform: translate(0, -50%) rotate(180deg); transition: 0.3s ease;}
+
+#tab05 .tabArea .tabItem .dropItemCon{display: none; width: 100%; padding: 36px 20px;}
+#tab05 .tabArea .tabItem .dropItemCon.show{display: block;}
+/* 
+.batchRegi .dropItem{}
+.batchRegi .dropItem .dropHead{position: relative; display: flex; align-items: center; background-color: #fdfdfd; min-height: 60px; border-radius: 10px; box-shadow: 2px 2px 6px 0 rgb(0 0 0 / 10%);}
+.batchRegi .dropItem .dropHead .drop{position: absolute; top: 50%; right: 10px; transform: translate(0, -50%); transition: 0.3s ease; width: 21px; height: 20px; background: url("/image/ico_drop_arrow.svg") center center no-repeat;}
+.batchRegi .dropItem .drop.anime{transform: translate(0, -50%) rotate(180deg); transition: 0.3s ease;}
+.batchRegi .dropItem .dropItemCon{display: none;}
+.batchRegi .dropItem .dropItemCon.show{display: block;} */
+
+/* noticeRegi */
+.noticeRegi .modalColumn .ckEditArea{}
+.noticeRegi .modalColumn .ckEditArea .ck-editor__editable{height: 280px;}
+
+.datepickers-container{z-index: 151;}
+
+/* modalExcelUpload */
+.modalExcelUpload{}
+.modalExcelUpload .inpFileWrap{}
+.modalExcelUpload .inpFileWrap label{line-height: 38px;}
+
+
+
+
+
+
+/* modal - modalCommon */
+
+
+
+/**/

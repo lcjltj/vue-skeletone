@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ico_nav_category</title>
+    <g id="Common" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Layout" transform="translate(-1319.000000, -2764.000000)">
+            <g id="LNB" transform="translate(1299.000000, 1839.000000)">
+                <g id="dropdown-menu" transform="translate(0.000000, 208.000000)">
+                    <g id="LNB-/-default-Copy-9" transform="translate(0.000000, 701.998037)">
+                        <g id="ico_nav_category" transform="translate(20.000000, 15.001963)">
+                            <rect id="Rectangle" x="0" y="0" width="22" height="22"></rect>
+                            <g id="promotion" transform="translate(11.000000, 11.002130) scale(1, -1) translate(-11.000000, -11.002130) translate(5.000000, 5.002130)" stroke="#333333">
+                                <path d="M10,3 L10,5 C10,5.55228475 9.55228475,6 9,6 L3,6 C2.44771525,6 2,5.55228475 2,5 L2,3 L2,3" id="Path" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <rect id="Rectangle" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" x="0" y="0" width="4" height="3" rx="1"></rect>
+                                <rect id="Rectangle-Copy-33" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" x="8" y="0" width="4" height="3" rx="1"></rect>
+                                <rect id="Rectangle-Copy-45" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" x="4" y="9" width="4" height="3" rx="1"></rect>
+                                <line x1="6" y1="9" x2="6" y2="6" id="Path-7"></line>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

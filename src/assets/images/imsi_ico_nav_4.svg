@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ico_nav_benefit</title>
+    <g id="Common" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Layout" transform="translate(-1319.000000, -2504.000000)">
+            <g id="LNB" transform="translate(1299.000000, 1839.000000)">
+                <g id="dropdown-menu" transform="translate(0.000000, 208.000000)">
+                    <g id="LNB-/-default-Copy-4" transform="translate(0.000000, 441.999018)">
+                        <g id="ico_nav_benefit" transform="translate(20.000000, 14.999833)">
+                            <rect id="Rectangle" x="0" y="0" width="22" height="22"></rect>
+                            <g id="Group-3" transform="translate(6.000000, 5.001148)" stroke="#333333" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2">
+                                <g id="Group-5" transform="translate(0.000000, 3.000000)">
+                                    <path d="M7,8 L7,7.33333333 C7,6.59695367 6.21649831,6 5.25,6 L1.75,6 C0.783501688,6 0,6.59695367 0,7.33333333 L0,8" id="Path"></path>
+                                    <ellipse id="Oval" cx="3.5" cy="1.77777778" rx="1.75" ry="1.77777778"></ellipse>
+                                </g>
+                                <path d="M0,2.38959418 L0,1 C-6.76353751e-17,0.44771525 0.44771525,3.23497668e-16 1,0 L11,0 C11.5522847,-1.01453063e-16 12,0.44771525 12,1 L12,9 C12,9.55228475 11.5522847,10 11,10 L9.5292081,10 L9.5292081,10" id="Path-14"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
